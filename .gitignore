@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+output/
+*.mp4
+gemini_key.txt
